@@ -12,9 +12,20 @@ Visual Studio Code seems to get more powerful each year. It is time to double do
 - Visual Studio Code https://code.visualstudio.com/
 
 **Code Required**
-- git add .
-- git commit -m "" (in this case git commit -m "index" ) 
-- git push
+- git add . (this places the files you want saved into the staging area) 
+- git commit -m "filename" (this is what saves the changes and cannot occur without git add being done first) 
+- git push (pushes from the local branch into the cloud/remote branch
 
-**Notes about the project**
-Cloning a repo is really only done once in the beginning. It creates an exact copy of all of the files, branches and commits on my local machine, allowing me to make edits locally. 
+**My Notes about the project**
+- Cloning a repo is really only done once in the beginning. It creates an exact copy of all of the files, branches and commits on my local machine, allowing me to make edits locally. 
+- I had to install the "Live Server" package in order to see my HTML code online (right click, open in Live Server)
+- You can save your work (commit) in both VSC and Github Desktop
+- I used the BASH terminal for the code
+
+**How these tools work together**
+- My Github profile is the online host
+- Visual Studio Code is the local host (Desktop)
+- Github Desktop is the middle buffer that connect the local host to the online host
+
+
+

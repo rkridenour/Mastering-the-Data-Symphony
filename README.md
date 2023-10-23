@@ -31,5 +31,7 @@ NEXT STEPS
 - Add in the steps I used to complete the project to include get pull
 - research/learn how to update VSC/GHD to reflect the changed repo name
 - create a file for learning resources and add in this https://www.markdownguide.org/cheat-sheet/
-
+- Grab screen shots from the project
+- Update the folder location on  my local machine to NOT be in onedrive
+- Determine why the local update of the readme file did not work
 

@@ -27,5 +27,9 @@ Visual Studio Code seems to get more powerful each year. It is time to double do
 - Visual Studio Code is the local host (Desktop)
 - Github Desktop is the middle buffer that connect the local host to the online host
 
+NEXT STEPS
+- Add in the steps I used to complete the project to include get pull
+- research/learn how to update VSC/GHD to reflect the changed repo name
+
 
 

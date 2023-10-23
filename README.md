@@ -33,5 +33,5 @@ NEXT STEPS
 - create a file for learning resources and add in this https://www.markdownguide.org/cheat-sheet/
 - Grab screen shots from the project
 - Update the folder location on  my local machine to NOT be in onedrive
-- Determine why the local update of the readme file did not work
+- Determine why the local update of the readme file did not work (I suspect I did not save it first in VSC) 
 

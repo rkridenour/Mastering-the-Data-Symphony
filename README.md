@@ -10,3 +10,11 @@ Visual Studio Code seems to get more powerful each year. It is time to double do
 - Git https://git-scm.com/download/
 - GitHub for Desktop https://desktop.github.com/
 - Visual Studio Code https://code.visualstudio.com/
+
+**Code Required**
+- git add .
+- git commit -m "" (in this case git commit -m "index" ) 
+- git push
+
+**Notes about the project**
+Cloning a repo is really only done once in the beginning. It creates an exact copy of all of the files, branches and commits on my local machine, allowing me to make edits locally. 

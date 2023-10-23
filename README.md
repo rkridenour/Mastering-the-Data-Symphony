@@ -30,6 +30,6 @@ Visual Studio Code seems to get more powerful each year. It is time to double do
 NEXT STEPS
 - Add in the steps I used to complete the project to include get pull
 - research/learn how to update VSC/GHD to reflect the changed repo name
-
+- create a file for learning resources and add in this https://www.markdownguide.org/cheat-sheet/
 
 
